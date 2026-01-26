@@ -1,0 +1,30 @@
+# Ignore build outputs
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.vs/
+
+# Database and log files
+*.dbmdl
+*.log
+*.pdb
+*.cache
+*.ide
+*.sdf
+
+# Source control and temp files
+*.vssscc
+*.vsscc
+*.ncb
+*.scc
+*.swp
+*.tmp
+*.bak
+
+# Local configuration
+appsettings.Development.json
